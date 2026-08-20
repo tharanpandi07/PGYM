@@ -1,3 +1,3 @@
 # PGYM
 
-PGYM - Gym Management Website
+PGYM - Gym Portfolio Website
