@@ -1,0 +1,11 @@
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import "./App.css";
+function App(){
+  return(
+    <center>
+  <h1></h1>
+  </center>
+  );
+}
+export default App;
